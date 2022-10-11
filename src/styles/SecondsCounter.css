@@ -1,0 +1,54 @@
+*{
+    /* border: 1px dashed red;
+    min-height: 10px; */
+    margin: 0;
+    padding: 0;
+  }
+  .boton {
+    font-family: Arial;
+    font-size: 0.85em;
+    background-color: black;
+    padding: 4px 8px;
+    border: 1px solid rgb(118, 118, 118);
+    display: inline;
+    width: 70px;
+    text-align: center;
+  }
+  .App {
+    /* text-align: center; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 50px;
+    background-color: black;
+    color: white;
+    /* width: 80%; */
+    padding: 18px;
+    border: 80px solid;
+   }
+
+.panel-btn{
+  margin-top: 15px;
+  text-align: center;
+}
+  
+.button{
+  border:none;
+  padding: 15px 25px;
+  border-radius: 50px;
+  color: white;
+  font-size: 15px;
+  cursor:pointer;
+}
+  
+.btn-parada{
+  background-color: rgb(92, 190, 125);
+} 
+  
+.btn-reinicio{
+  background-color: rgb(151, 225, 228);
+} 
+
+.btn-reanudacion{
+  background-color: rgb(212, 221, 83);
+} 
